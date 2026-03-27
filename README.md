@@ -62,10 +62,6 @@ To run this in **GitHub Codespaces** or your local terminal:
 
 1. **Clone the repository**
 
-git clone
-[https://github.com/YOUR_USERNAME/HOSDT-Clinic-Sim.git](https://github.com/YOUR_USERN
-AME/HOSDT-Clinic-Sim.git)
-cd HOSDT-Clinic-Sim
 
 2. **Install requirements**
 
@@ -88,6 +84,3 @@ streamlit run app.py
 **Version:** 1.0.
 
 **License:** MIT
-
-
-
